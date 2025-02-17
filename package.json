@@ -1,0 +1,24 @@
+{
+  "name": "ultimatetimer-front-deployment",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "npx http-server -p 8080",
+    "build": "echo 'No build step required'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthuritoo44/UltimateTimer-Front.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthuritoo44/UltimateTimer-Front/issues"
+  },
+  "homepage": "https://github.com/arthuritoo44/UltimateTimer-Front#readme",
+  "description": "",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
